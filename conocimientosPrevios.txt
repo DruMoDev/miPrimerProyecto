@@ -1,3 +1,4 @@
 Conocimientos previos:
 
 1. Conocimientos en Frontend con React y Next.
+2. Conocimienots en Backend con Node y Express
