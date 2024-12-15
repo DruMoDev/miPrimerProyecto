@@ -1,0 +1,3 @@
+Objetivos:
+
+1. Aprender Angular para complementar React.
