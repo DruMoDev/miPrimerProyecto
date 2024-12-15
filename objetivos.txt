@@ -1,0 +1,5 @@
+Objetivos:
+
+1. Aprender Angular para complementar React.
+2. Aprender testing, porque es algo que tengo muchas carencias.
+3. Refinar mi conocimientos en programacion web en general, y poder conocer gente nueva y generar contactos.
